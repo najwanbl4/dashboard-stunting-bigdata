@@ -1,0 +1,101 @@
+id_balita,pendidikan_ibu,pendapatan_keluarga,asi_eksklusif,frekuensi_makan,sanitasi_rumah,air_bersih
+1,SMP,<2jt,Tidak,1-2 kali,Baik,Sumur
+2,Kuliah,2-5jt,Ya,3 kali,Kurang,Air Isi Ulang
+3,SMA,<2jt,Ya,3 kali,Cukup,PDAM
+4,SMA,2-5jt,Tidak,3 kali,Kurang,PDAM
+5,SD,>5jt,Tidak,3 kali,Baik,PDAM
+6,SD,<2jt,Ya,>3 kali,Kurang,PDAM
+7,SD,2-5jt,Ya,3 kali,Baik,PDAM
+8,Kuliah,2-5jt,Tidak,3 kali,Baik,PDAM
+9,SMA,<2jt,Ya,3 kali,Kurang,PDAM
+10,SMA,<2jt,Ya,3 kali,Baik,Sumur
+11,SD,<2jt,Ya,3 kali,Baik,Air Isi Ulang
+12,Kuliah,<2jt,Tidak,1-2 kali,Kurang,PDAM
+13,Kuliah,>5jt,Tidak,1-2 kali,Kurang,Sumur
+14,SMP,>5jt,Ya,>3 kali,Cukup,Sumur
+15,SD,2-5jt,Tidak,>3 kali,Cukup,Air Isi Ulang
+16,SD,>5jt,Ya,3 kali,Baik,PDAM
+17,SMP,>5jt,Ya,3 kali,Baik,Air Isi Ulang
+18,SMA,<2jt,Tidak,1-2 kali,Baik,PDAM
+19,SMP,>5jt,Tidak,1-2 kali,Cukup,Sumur
+20,SMP,2-5jt,Tidak,3 kali,Cukup,Sumur
+21,SMA,>5jt,Tidak,3 kali,Cukup,Sumur
+22,SD,>5jt,Ya,3 kali,Cukup,Sumur
+23,SMP,<2jt,Ya,3 kali,Baik,Air Isi Ulang
+24,SMP,<2jt,Ya,3 kali,Baik,PDAM
+25,SMP,<2jt,Ya,>3 kali,Baik,PDAM
+26,SMA,2-5jt,Ya,3 kali,Cukup,Air Isi Ulang
+27,SD,>5jt,Tidak,3 kali,Baik,PDAM
+28,SMA,>5jt,Ya,3 kali,Kurang,Sumur
+29,SMA,<2jt,Tidak,3 kali,Baik,PDAM
+30,SD,2-5jt,Tidak,3 kali,Baik,Sumur
+31,SMA,2-5jt,Tidak,3 kali,Baik,Air Isi Ulang
+32,SD,<2jt,Ya,3 kali,Cukup,PDAM
+33,SD,<2jt,Ya,1-2 kali,Cukup,Air Isi Ulang
+34,Kuliah,<2jt,Ya,1-2 kali,Baik,PDAM
+35,Kuliah,>5jt,Ya,1-2 kali,Baik,Sumur
+36,Kuliah,<2jt,Tidak,1-2 kali,Cukup,Air Isi Ulang
+37,SMP,2-5jt,Ya,>3 kali,Baik,PDAM
+38,SD,2-5jt,Ya,3 kali,Kurang,Sumur
+39,SMA,<2jt,Tidak,3 kali,Cukup,Air Isi Ulang
+40,SMP,>5jt,Ya,1-2 kali,Baik,Air Isi Ulang
+41,SD,>5jt,Tidak,3 kali,Baik,PDAM
+42,SMP,<2jt,Tidak,3 kali,Kurang,PDAM
+43,SD,2-5jt,Tidak,1-2 kali,Baik,PDAM
+44,Kuliah,<2jt,Ya,3 kali,Baik,Sumur
+45,SMP,<2jt,Ya,3 kali,Kurang,PDAM
+46,SMA,<2jt,Tidak,3 kali,Kurang,Air Isi Ulang
+47,SMP,2-5jt,Ya,3 kali,Kurang,Air Isi Ulang
+48,SMA,2-5jt,Tidak,1-2 kali,Cukup,PDAM
+49,SMA,<2jt,Tidak,3 kali,Baik,PDAM
+50,SD,<2jt,Tidak,3 kali,Baik,Air Isi Ulang
+51,Kuliah,>5jt,Ya,3 kali,Cukup,Sumur
+52,SMA,<2jt,Ya,>3 kali,Cukup,PDAM
+53,Kuliah,<2jt,Tidak,3 kali,Baik,PDAM
+54,Kuliah,2-5jt,Ya,1-2 kali,Kurang,Air Isi Ulang
+55,SMA,>5jt,Ya,1-2 kali,Baik,PDAM
+56,Kuliah,<2jt,Ya,3 kali,Baik,Sumur
+57,SD,2-5jt,Tidak,1-2 kali,Baik,Air Isi Ulang
+58,SD,2-5jt,Tidak,3 kali,Baik,PDAM
+59,SD,<2jt,Ya,>3 kali,Baik,Air Isi Ulang
+60,SMP,2-5jt,Ya,3 kali,Baik,PDAM
+61,SMP,<2jt,Tidak,3 kali,Baik,PDAM
+62,SMP,2-5jt,Tidak,3 kali,Cukup,PDAM
+63,Kuliah,2-5jt,Ya,3 kali,Cukup,Sumur
+64,SMP,2-5jt,Ya,3 kali,Cukup,Sumur
+65,SMP,<2jt,Tidak,>3 kali,Kurang,Air Isi Ulang
+66,SMA,>5jt,Tidak,3 kali,Baik,PDAM
+67,SD,<2jt,Tidak,>3 kali,Baik,PDAM
+68,Kuliah,<2jt,Tidak,>3 kali,Kurang,Sumur
+69,SD,<2jt,Ya,1-2 kali,Baik,PDAM
+70,Kuliah,2-5jt,Ya,1-2 kali,Kurang,Sumur
+71,SMA,2-5jt,Tidak,1-2 kali,Baik,PDAM
+72,SD,<2jt,Tidak,1-2 kali,Kurang,Air Isi Ulang
+73,SD,2-5jt,Tidak,1-2 kali,Baik,PDAM
+74,Kuliah,<2jt,Tidak,3 kali,Kurang,PDAM
+75,SMA,2-5jt,Ya,1-2 kali,Cukup,Sumur
+76,SMA,<2jt,Ya,3 kali,Kurang,PDAM
+77,SMA,2-5jt,Tidak,>3 kali,Baik,PDAM
+78,SD,<2jt,Tidak,1-2 kali,Cukup,Sumur
+79,SMP,>5jt,Tidak,>3 kali,Kurang,Air Isi Ulang
+80,SD,<2jt,Tidak,3 kali,Cukup,Air Isi Ulang
+81,Kuliah,<2jt,Tidak,1-2 kali,Cukup,Sumur
+82,SMA,<2jt,Ya,3 kali,Cukup,Sumur
+83,SMP,>5jt,Ya,3 kali,Baik,Sumur
+84,SD,>5jt,Ya,>3 kali,Cukup,Sumur
+85,SMP,<2jt,Ya,3 kali,Cukup,Sumur
+86,SMP,2-5jt,Ya,>3 kali,Kurang,Air Isi Ulang
+87,SMA,>5jt,Ya,3 kali,Baik,Air Isi Ulang
+88,SMA,2-5jt,Ya,1-2 kali,Baik,Sumur
+89,Kuliah,2-5jt,Ya,3 kali,Kurang,PDAM
+90,SMP,<2jt,Ya,>3 kali,Kurang,Sumur
+91,SD,<2jt,Ya,>3 kali,Baik,PDAM
+92,SMA,>5jt,Ya,3 kali,Cukup,Sumur
+93,SMA,>5jt,Tidak,3 kali,Baik,Sumur
+94,SMA,2-5jt,Ya,3 kali,Baik,Air Isi Ulang
+95,SMA,<2jt,Ya,3 kali,Baik,PDAM
+96,SMP,<2jt,Ya,>3 kali,Baik,PDAM
+97,SMA,2-5jt,Tidak,>3 kali,Cukup,Air Isi Ulang
+98,SMP,>5jt,Ya,3 kali,Baik,Air Isi Ulang
+99,SD,>5jt,Tidak,3 kali,Kurang,Air Isi Ulang
+100,SD,2-5jt,Ya,3 kali,Kurang,Air Isi Ulang
